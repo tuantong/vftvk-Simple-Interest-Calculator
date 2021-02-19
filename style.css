@@ -1,4 +1,4 @@
-body {background-color:tan;}
-h1{color:green;}
-
+body {background-color:black;font:arial;style:white}
+h1{color:grey;font:verdana;font-size:25px;margin: 0 auto}
+div.maindiv {background-color:white;font:arial;style:black;width:300px;padding:20px;border-radius:25px;margin: 0 auto}
 
